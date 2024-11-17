@@ -4,4 +4,4 @@ Disallow: /user
 
 Allow: /
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap:lumoshive-homework-6-git-main-ferys-projects-989b7a2e.vercel.app/sitemap.xml
